@@ -1,0 +1,1 @@
+This app is inspired by Miwok app which is used in a Udacity course in the Beginning Android Nanodegree. This app displays lists of vocabulary words for the user to learn the Hindi language 
