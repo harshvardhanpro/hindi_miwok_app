@@ -43,7 +43,7 @@ public class NumbersActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l)
 
              {
-               mMediaPlayer=MediaPlayer.create(NumbersActivity.this,R.raw.six);
+               mMediaPlayer=MediaPlayer.create(NumbersActivity.this,R.raw.one);
                 mMediaPlayer.start();
             }
         });
